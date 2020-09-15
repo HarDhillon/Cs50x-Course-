@@ -1,0 +1,76 @@
+.center
+{
+    text-align: center;
+}
+
+#army
+{
+    padding-top: 50px;
+    color: Green;
+}
+
+nav
+{
+    font-family: "Times New Roman", Times, serif;
+    color: Green;
+}
+
+.small-font
+{
+  font-size: 9px;
+}
+
+.container
+{
+    text-align: justify;
+    width: [500px];
+}
+
+.container
+{
+    display: block;
+    margin: 0 auto;
+}
+
+pre
+{
+    text-align: center;
+    white-space: pre-line;
+}
+
+table
+{
+    border-collapse: collapse;
+}
+
+td
+{
+    text-align: center;
+    padding: 30px;
+}
+
+th
+{
+    text-align: center;
+}
+
+
+.red
+{
+    color: Red;
+}
+
+.bold
+{
+    font-weight: bold;
+}
+
+a:hover
+{
+  background-color: #E9967A;
+}
+
+p::first-letter
+{
+  font-size: 150%;
+}
